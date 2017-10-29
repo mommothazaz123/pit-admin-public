@@ -4,6 +4,6 @@ demonstration.
 It is missing a few files to be able to be hosted locally.
 
 ## Notable Files
-``web.py``: The TBA webhook handler, based on the `aiohttp` framework.
+``web.py``: The TBA webhook handler, based on the `aiohttp` framework.  
 ``pitUtils.py``: The Discord interface that allows teams to request
 stats.
